@@ -1,0 +1,8 @@
+.hg
+.hgignore
+*.pyc
+venv
+build
+tfcon.egg-info
+dist
+*.sw*
